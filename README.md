@@ -9,5 +9,5 @@ Features:
 
 ## How to Run
 1. Install Python 3.9+  
-2. Run: `python scheduler.py`  
+2. Run: `python scheduling software.py`  
 3. Dashboard opens with interactive controls.
