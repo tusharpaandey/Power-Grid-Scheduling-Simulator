@@ -1,0 +1,13 @@
+# Power Scheduling Software
+
+A Python-based dashboard for power portfolio management.  
+Features:
+- 15-min block scheduling (96 blocks/day)  
+- Plant dispatch optimization (backdown/startup)  
+- Market rate tracking & cost analysis  
+- Forced outage simulation  
+
+## How to Run
+1. Install Python 3.9+  
+2. Run: `python scheduler.py`  
+3. Dashboard opens with interactive controls.
